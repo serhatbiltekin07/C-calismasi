@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\bin\Debug\net7.0\Metotlar.exe
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\bin\Debug\net7.0\Metotlar.deps.json
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\bin\Debug\net7.0\Metotlar.runtimeconfig.json
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\bin\Debug\net7.0\Metotlar.dll
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\bin\Debug\net7.0\Metotlar.pdb
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.AssemblyInfo.cs
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.dll
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\refint\Metotlar.dll
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.pdb
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\Metotlar.genruntimeconfig.cache
+C:\Users\user\Desktop\C# örnek çalışması\Metotlar\Metotlar\obj\Debug\net7.0\ref\Metotlar.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\bin\Debug\net7.0\odev1.exe
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\bin\Debug\net7.0\odev1.deps.json
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\bin\Debug\net7.0\odev1.runtimeconfig.json
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\bin\Debug\net7.0\odev1.dll
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\bin\Debug\net7.0\odev1.pdb
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.AssemblyInfo.cs
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.dll
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\refint\odev1.dll
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.pdb
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\odev1.genruntimeconfig.cache
+C:\Users\user\Desktop\C# örnek çalışması\odev1\odev1\obj\Debug\net7.0\ref\odev1.dll
