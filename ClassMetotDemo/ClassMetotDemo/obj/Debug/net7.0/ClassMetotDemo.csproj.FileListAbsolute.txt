@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.exe
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.deps.json
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.dll
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.pdb
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.dll
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\refint\ClassMetotDemo.dll
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.pdb
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\user\Desktop\C# örnek çalışması\ClassMetotDemo\ClassMetotDemo\obj\Debug\net7.0\ref\ClassMetotDemo.dll
